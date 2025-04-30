@@ -48,10 +48,3 @@ class Bot(Client):
                 print("Please Make This Is Admin In Your Log Channel")
 
 Bot().run()
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
