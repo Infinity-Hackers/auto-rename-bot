@@ -23,13 +23,3 @@ async def set_media_command(client, message):
     await madflixbotz.set_media_preference(user_id, media_type)
 
     await message.reply_text(f"**Media Preference Set To :** {media_type} ✅")
-
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
